@@ -1,0 +1,3 @@
+[submodule "dbn"]
+	path = dbn
+	url = https://github.com/TamaraRG/deep-belief-network.git

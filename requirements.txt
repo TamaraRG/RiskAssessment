@@ -1,0 +1,8 @@
+numpy
+tensorflow[and-cuda]
+scikit-learn
+openpyxl
+invoice2data
+imbalanced-learn
+shap
+matplotlib
